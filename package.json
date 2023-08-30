@@ -1,0 +1,28 @@
+{
+  "name": "node-logger",
+  "version": "1.0.0",
+  "description": "This is an npm package for console logging info",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaqDeku/Logger.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "logger"
+  ],
+  "author": "Raquib D. Saabit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RaqDeku/Logger/issues"
+  },
+  "homepage": "https://github.com/RaqDeku/Logger#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dayjs": "^1.11.9"
+  }
+}
