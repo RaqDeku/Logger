@@ -1,6 +1,6 @@
 {
-  "name": "node-logger",
-  "version": "1.0.0",
+  "name": "node-logga",
+  "version": "1.0.4",
   "description": "This is an npm package for console logging info",
   "main": "logger.js",
   "scripts": {
